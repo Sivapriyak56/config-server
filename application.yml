@@ -9,11 +9,4 @@ eureka:
       
       
       
-management:
-  tracing:
-    sampling:
-      probability: 1.0
-      
-      
- zipkin:
-  base-url : http://127.0.0.0.1:9411
+
